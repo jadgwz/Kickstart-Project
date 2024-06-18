@@ -1,2 +1,2 @@
 # Kickstart-Project
- For hosting my kickstart project repository
+ Use for hosting my kickstart project file.
